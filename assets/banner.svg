@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
-  <title id="title">Chuhua368 — Learn. Build. Iterate.</title>
+  <title id="title">Chuhua Tan — Applied AI, Agent Engineering, Data Systems</title>
   <desc id="desc">A midnight blue profile banner with mint and lavender orbital connections.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -19,14 +19,14 @@
   <rect width="1280" height="340" rx="18" fill="url(#grid)"/>
   <ellipse cx="1050" cy="150" rx="310" ry="270" fill="url(#glow)"/>
   <rect x="48" y="53" width="28" height="3" rx="1.5" fill="#79efd0"/>
-  <text x="90" y="60" fill="#a6b5cf" font-family="Verdana,Arial,sans-serif" font-size="13" letter-spacing="3">A DEVELOPER IN PROGRESS</text>
-  <text x="48" y="158" fill="#f3f6ff" font-family="Verdana,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Chuhua368<tspan fill="#79efd0">.</tspan></text>
-  <text x="51" y="204" fill="#b7c4dc" font-family="Verdana,Arial,sans-serif" font-size="21" letter-spacing="1">Curiosity into code.</text>
+  <text x="90" y="60" fill="#a6b5cf" font-family="Verdana,Arial,sans-serif" font-size="13" letter-spacing="3">APPLIED AI / AGENT SYSTEMS</text>
+  <text x="48" y="158" fill="#f3f6ff" font-family="Verdana,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Chuhua Tan<tspan fill="#79efd0">.</tspan></text>
+  <text x="51" y="204" fill="#b7c4dc" font-family="Verdana,Arial,sans-serif" font-size="21" letter-spacing=".3">Built with intent. Measured with evidence.</text>
   <path d="M50 238H666" stroke="#64748b" stroke-opacity=".3"/>
   <g font-family="Verdana,Arial,sans-serif" font-size="12" letter-spacing="2">
-    <circle cx="55" cy="279" r="4" fill="#79efd0"/><text x="70" y="284" fill="#d5dfef">LEARN</text>
-    <circle cx="207" cy="279" r="4" fill="#9ebcff"/><text x="222" y="284" fill="#d5dfef">BUILD</text>
-    <circle cx="355" cy="279" r="4" fill="#b9a8ff"/><text x="370" y="284" fill="#d5dfef">ITERATE</text>
+    <circle cx="55" cy="279" r="4" fill="#79efd0"/><text x="70" y="284" fill="#d5dfef">BUILD</text>
+    <circle cx="207" cy="279" r="4" fill="#9ebcff"/><text x="222" y="284" fill="#d5dfef">EVALUATE</text>
+    <circle cx="395" cy="279" r="4" fill="#b9a8ff"/><text x="410" y="284" fill="#d5dfef">IMPROVE</text>
   </g>
   <g transform="translate(1030 169)" fill="none">
     <circle r="118" stroke="#8792b3" stroke-opacity=".18"/>
