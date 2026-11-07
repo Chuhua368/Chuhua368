@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Chuhua368 — Learn. Build. Iterate.</title>
+  <desc id="desc">A midnight blue profile banner with mint and lavender orbital connections.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111c30"/><stop offset="1" stop-color="#080e1b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#79efd0"/><stop offset="1" stop-color="#a69bff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#7062cc" stop-opacity=".22"/><stop offset="1" stop-color="#7062cc" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8ca6cc" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1050" cy="150" rx="310" ry="270" fill="url(#glow)"/>
+  <rect x="48" y="53" width="28" height="3" rx="1.5" fill="#79efd0"/>
+  <text x="90" y="60" fill="#a6b5cf" font-family="Verdana,Arial,sans-serif" font-size="13" letter-spacing="3">A DEVELOPER IN PROGRESS</text>
+  <text x="48" y="158" fill="#f3f6ff" font-family="Verdana,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Chuhua368<tspan fill="#79efd0">.</tspan></text>
+  <text x="51" y="204" fill="#b7c4dc" font-family="Verdana,Arial,sans-serif" font-size="21" letter-spacing="1">Curiosity into code.</text>
+  <path d="M50 238H666" stroke="#64748b" stroke-opacity=".3"/>
+  <g font-family="Verdana,Arial,sans-serif" font-size="12" letter-spacing="2">
+    <circle cx="55" cy="279" r="4" fill="#79efd0"/><text x="70" y="284" fill="#d5dfef">LEARN</text>
+    <circle cx="207" cy="279" r="4" fill="#9ebcff"/><text x="222" y="284" fill="#d5dfef">BUILD</text>
+    <circle cx="355" cy="279" r="4" fill="#b9a8ff"/><text x="370" y="284" fill="#d5dfef">ITERATE</text>
+  </g>
+  <g transform="translate(1030 169)" fill="none">
+    <circle r="118" stroke="#8792b3" stroke-opacity=".18"/>
+    <circle r="82" stroke="#8792b3" stroke-opacity=".18" stroke-dasharray="4 9"/>
+    <ellipse rx="144" ry="53" transform="rotate(-38)" stroke="url(#accent)" stroke-opacity=".7"/>
+    <ellipse rx="144" ry="53" transform="rotate(38)" stroke="#8b9bda" stroke-opacity=".4"/>
+    <path d="M-91-75L-51 63 68 37 91-75-91-75M-51 63L0-3 91-75M-91-75L0-3 68 37" stroke="#9cace1" stroke-opacity=".25"/>
+    <circle cx="-91" cy="-75" r="6" fill="#79efd0"/>
+    <circle cx="91" cy="-75" r="6" fill="#a69bff"/>
+    <circle cx="-51" cy="63" r="6" fill="#a69bff"/>
+    <circle cx="68" cy="37" r="6" fill="#79efd0"/>
+    <circle r="33" fill="#15263b" stroke="url(#accent)" stroke-width="1.5"/>
+    <path d="M-10-9L-19 0-10 9M10-9L19 0 10 9M4-14L-4 14" stroke="#d4fff3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="1" y="1" width="1278" height="338" rx="17" fill="none" stroke="#8594b1" stroke-opacity=".2"/>
+</svg>
